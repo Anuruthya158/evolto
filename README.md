@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+⚡ Evoto — Smart & Modern Web Application
 
-## Project info
+Welcome to Evoto, a sleek and high-performance web application built using React, Vite, Tailwind CSS, and shadcn/ui.
+This project reflects my hands-on learning journey in building responsive, fast, and user-friendly interfaces from scratch.
 
-**URL**: https://lovable.dev/projects/ffb09381-e98b-47f4-8cc0-d1f6bd202635
+🪶 Overview
 
-## How can I edit this code?
+Evoto is designed with a focus on modern UI/UX principles — smooth animations, structured components, and efficient performance.
+Every part of this project was crafted to demonstrate my frontend development skills using today’s most in-demand tools.
 
-There are several ways of editing your application.
+🧠 Tech Stack
 
-**Use Lovable**
+This project is powered by:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ffb09381-e98b-47f4-8cc0-d1f6bd202635) and start prompting.
+⚛️ React — Component-based UI library for dynamic frontends
 
-Changes made via Lovable will be committed automatically to this repo.
+⚡ Vite — Ultra-fast build tool for modern web development
 
-**Use your preferred IDE**
+🎨 Tailwind CSS — Utility-first CSS for rapid and clean styling
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🧱 shadcn/ui — Prebuilt, customizable UI components
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+💻 JavaScript (ES6+) — For scripting logic and interactivity
 
-Follow these steps:
+⚙️ Setup & Installation
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Make sure Node.js and npm are installed before proceeding.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 1: Clone the repository
+git clone <YOUR_REPO_URL>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 2: Navigate into the project folder
+cd evoto
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 3: Install all dependencies
+npm install
+
+# Step 4: Start the local development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Now open your browser and visit http://localhost:5173/
+ to preview Evoto.
 
-**Use GitHub Codespaces**
+🚀 Deployment
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🌍 Custom Domain
 
-## What technologies are used for this project?
+Want your own domain (like evoto.in or evoto.dev)?
+Go to Project → Settings → Domains → Connect Domain
 
-This project is built with:
+More info: Custom Domain Setup Guide
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+👩‍💻 Author
 
-## How can I deploy this project?
+Developed by Anuruthya —
+Aspiring Frontend Developer passionate about building fast, elegant, and practical web solutions.
 
-Simply open [Lovable](https://lovable.dev/projects/ffb09381-e98b-47f4-8cc0-d1f6bd202635) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+“Evoto isn’t just a project — it’s a milestone in my journey to becoming a confident, independent developer.” 💪
